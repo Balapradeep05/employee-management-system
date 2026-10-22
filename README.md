@@ -17,28 +17,20 @@ Validate required form fields
 REST API integration between the React frontend and Spring Boot backend
 
 Tech Stack
+
 Frontend
 React
-
 JavaScript
-
 React Router
-
 Axios
-
 Vite
-
 CSS
 
 Backend
 Java 17
-
 Spring Boot
-
 Spring Web MVC
-
 Spring Data JPA
-
 Maven
 
 Database
@@ -46,8 +38,11 @@ MySQL
 
 Project Structure
 Employee-Management-System/
+
 ├── ems-frontend/    # React + Vite frontend
 └── emp-backend/     # Spring Boot REST API
+
+
 Prerequisites
 Install the following before running the project:
 
