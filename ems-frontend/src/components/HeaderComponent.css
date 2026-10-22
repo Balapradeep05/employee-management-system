@@ -1,0 +1,40 @@
+/* Remove the browser's default spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header section */
+.header {
+  width: 100%;
+}
+
+/* Navigation bar */
+.ems-navbar {
+  display: flex;
+  align-items: center;
+  min-height: 70px;
+  padding: 0 50px;
+  background-color: #1e293b;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+/* Application name */
+.ems-navbar-brand {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+/* Hover effect */
+.ems-navbar-brand:hover {
+  color: #93c5fd;
+}
+a{
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+}

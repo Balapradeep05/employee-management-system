@@ -1,0 +1,25 @@
+# Frontend dependencies
+ems-frontend/node_modules/
+
+# Frontend build output
+ems-frontend/dist/
+ems-frontend/build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Java compiled files
+*.class
+
+# Maven build output
+emp-backend/target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
