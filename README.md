@@ -20,17 +20,26 @@ Tech Stack
 
 Frontend
 React
+
 JavaScript
+
 React Router
+
 Axios
+
 Vite
+
 CSS
 
 Backend
 Java 17
+
 Spring Boot
+
 Spring Web MVC
+
 Spring Data JPA
+
 Maven
 
 Database
@@ -39,8 +48,8 @@ MySQL
 Project Structure
 Employee-Management-System/
 
-├── ems-frontend/    # React + Vite frontend
-└── emp-backend/     # Spring Boot REST API
+--- ems-frontend/    # React + Vite frontend
+--- emp-backend/     # Spring Boot REST API
 
 
 Prerequisites
